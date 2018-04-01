@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "908257298907",
+    "firebase_url": "https://logintest-18a48.firebaseio.com",
+    "project_id": "logintest-18a48",
+    "storage_bucket": "logintest-18a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908257298907:android:41251dc0c2ce956a",
+        "android_client_info": {
+          "package_name": "com.example.venu.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908257298907-a9jlvqtc7cvvsgfnuiucp5pj5kik77h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPwoYXTctoiu92zXh7cGKnnzeMgnBjEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

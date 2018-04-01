@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fcf39128</color>
+    <color name="colorPrimaryDark">#061574</color>
+    <color name="colorAccent">#7597f4</color>
+    <color name="colorRegisterButton">#7c042c</color>
+    <color name="colorButtonback">#4b4945</color>
+    <color name="colorButtontext">#fcf6f7f3</color>
+    <color name="colorBlue1">#061574</color>
+    <color name="colorBackgroundlogout">#fc5456a5</color>
+</resources>
